@@ -11,6 +11,7 @@ Welcome to the **Book Review Application**! This project is designed to allow us
 - **Book Reviews**: Add, edit, and delete book reviews.
 - **Ratings**: Rate books from 1 to 5 stars.
 - **User Profiles**: View your review history and ratings.
+- **Admin panel and dashboard**: To add edit and delete books in website
 
 ## Technologies Used
 
